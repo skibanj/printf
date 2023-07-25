@@ -1,5 +1,5 @@
 Tasks
-these is a group task between khangweni and juba
+This is a group task between khangweni and juba
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 write output to stdout, the standard output stream
 
